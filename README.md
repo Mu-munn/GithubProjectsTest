@@ -1,3 +1,3 @@
 # ProjectManagementTest
 
-for test
+Github Projectsがどのように運用できるか調べる
